@@ -1,5 +1,13 @@
+# _____       _                                _           _ _             _       
+#/  __ \     | |                              | |         | | |           | |      
+#| /  \/_   _| |__   ___  ___    ___ _ __ ___ | |__   __ _| | | __ _ _ __ | |_ ___ 
+#| |   | | | | '_ \ / _ \/ __|  / _ \ '_ ` _ \| '_ \ / _` | | |/ _` | '_ \| __/ __|
+#| \__/\ |_| | |_) |  __/\__ \ |  __/ | | | | | |_) | (_| | | | (_| | | | | |_\__ \
+#\____/\__,_|_.__/ \___||___/  \___|_| |_| |_|_.__/ \__,_|_|_|\__,_|_| |_|\__|___/
+#
 #Programme de cacul surface parallipipede suivant volume
 #Pour faire un round up on fait la division entiere du nombre negatif 
+
 import os
 os.chdir("E:/Documents/Ecole/5ème H/Math en Jeans/Programmes cubes") #noté le chemin d'accès où se trouve le le fichier ncubes.txt et où vous voulez que les résultats soit écrit
 
