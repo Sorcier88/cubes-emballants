@@ -8,7 +8,7 @@
 #Programme de cacul surface parallipipede suivant volume
 #Pour faire un round up on fait la division entiere du nombre negatif 
 import os
-os.chdir("E:/Documents/Ecole/5eme H/Math en Jeans/Programmes cubes") #noté le chemin d'accès où se trouve le le fichier ncubes.txt et où vous voulez que les résultats soit écrit
+os.chdir("D://Documents/ici") #notez le chemin d'accès où se trouve le le fichier ncubes.txt et où vous voulez que les résultats soit écrit
 
 with open("ncubes.txt", "r") as ini:
     contenu_ini = ini.read()
